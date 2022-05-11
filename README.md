@@ -24,8 +24,11 @@
   <br>
   <!-- sanic -->
   <!--<marquee behavior="scroll" direction="right" scrollamount="100"><img src="https://c.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="SANIC" width="100"></marquee>-->
-   <img src="https://www.fightersgeneration.com/news2022/game/stage/super-sf2-turbo-blanka-stage.gif" alt="BRASIL">
-  ![Snake animation](https://github.com/obrunomogli/obrunomogli/blob/output/github-contribution-grid-snake.svg)
+    <!--<img src="https://www.fightersgeneration.com/news2022/game/stage/super-sf2-turbo-blanka-stage.gif" alt="BRASIL">-->
+   <img src="https://giffiles.alphacoders.com/146/14685.gif" alt="SOLAIRE">
   
-</div>
+  
+  ![Snake animation](https://github.com/obrunomogli/obrunomogli/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
 <!--https://github.com/anuraghazra/github-readme-stats-->
