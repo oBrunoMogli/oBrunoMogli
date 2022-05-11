@@ -28,3 +28,4 @@
   ![Snake animation](https://github.com/obrunomogli/obrunomogli/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<!--https://github.com/anuraghazra/github-readme-stats-->
