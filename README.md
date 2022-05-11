@@ -23,8 +23,8 @@
   <!--  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   <br>
   <!-- sanic -->
-  <marquee behavior="scroll" direction="right" scrollamount="100"><img src="https://c.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="SANIC" width="100"></marquee>
-   
+  <!--<marquee behavior="scroll" direction="right" scrollamount="100"><img src="https://c.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="SANIC" width="100"></marquee>-->
+   <img src="https://www.fightersgeneration.com/news2022/game/stage/super-sf2-turbo-blanka-stage.gif" alt="BRASIL"
   ![Snake animation](https://github.com/obrunomogli/obrunomogli/blob/output/github-contribution-grid-snake.svg)
   
 </div>
